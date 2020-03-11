@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "590542934883",
+    "firebase_url": "https://mrlocationmanager.firebaseio.com",
+    "project_id": "mrlocationmanager",
+    "storage_bucket": "mrlocationmanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590542934883:android:7084b72f7fccb58a9cf956",
+        "android_client_info": {
+          "package_name": "com.mrlocationmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590542934883-2365uqcr7ho6ibg5q1pj1fg6tbc959r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRrPCaRHq1q9s1k8BE7q0OP3Xmax85CBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590542934883-2365uqcr7ho6ibg5q1pj1fg6tbc959r4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590542934883-nutpf324i0gh6s3c7mg2jibrlp7clshu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.expo.mrlocationmanager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
